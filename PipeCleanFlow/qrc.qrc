@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="image/管道清洗.png">image/pipeline_cleaning.png</file>
+    </qresource>
+</RCC>
